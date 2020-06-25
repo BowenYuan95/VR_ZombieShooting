@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/Basement_And_Sewerage_Modular_Location/BASML_Demo_Scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
